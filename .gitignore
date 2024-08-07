@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Composer vendor directory
+vendor/
+
+# Composer lock file
+composer.lock
+
+# npm lock file
+package-lock.json
+
+# .env file
+.env
+
+# Other files or directories to ignore
+.DS_Store
