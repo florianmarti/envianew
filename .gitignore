@@ -6,9 +6,11 @@ vendor/
 
 # Composer lock file
 composer.lock
+composer.json
 
 # npm lock file
 package-lock.json
+package.json
 
 # .env file
 .env
